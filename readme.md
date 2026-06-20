@@ -1,5 +1,5 @@
 # 📊 Data-Driven Financial & Supply Chain Analytics for Small-Scale Farmers
-https://ieeexplore.ieee.org/document/10625462
+IEEE LINK : https://ieeexplore.ieee.org/document/10625462
 
 ## 🎯 Objective
 
