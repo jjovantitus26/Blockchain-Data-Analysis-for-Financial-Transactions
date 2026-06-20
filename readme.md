@@ -1,8 +1,10 @@
 # 📊 Data-Driven Financial & Supply Chain Analytics for Small-Scale Farmers
+https://ieeexplore.ieee.org/document/10625462
 
 ## 🎯 Objective
 
 To develop a data-driven system that improves financial inclusion, supply chain transparency, and market accessibility for small-scale farmers by leveraging structured data analytics, transaction monitoring, and predictive insights.
+
 
 ---
 
